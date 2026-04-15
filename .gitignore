@@ -1,0 +1,6 @@
+# Binaries
+/bin/
+*.exe
+
+# Go workspace file
+go.work
