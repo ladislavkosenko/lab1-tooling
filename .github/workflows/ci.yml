@@ -20,7 +20,7 @@ jobs:
     - name: Setup Go
       uses: actions/setup-go@v5
       with:
-        go-version: '1.22' # Або вкажи свою версію, якщо вона інша
+        go-version: '1.24.x'
         cache: false
 
     # 3. Перевірка цілісності залежностей
