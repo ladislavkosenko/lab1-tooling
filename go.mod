@@ -3,7 +3,7 @@ module github.com/ladislavkosenko/lab1-tooling
 go 1.24.0
 
 require (
-	github.com/rs/zerolog v1.35.0
+	github.com/rs/zerolog v1.29.0
 	github.com/spf13/viper v1.21.0
 )
 

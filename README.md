@@ -1,5 +1,5 @@
 # Lab 1: Tooling Setup
-
+[![CI Pipeline](https://github.com/ladislavkosenko/lab1-tooling/actions/workflows/ci.yml/badge.svg)](https://github.com/ladislavkosenko/lab1-tooling/actions/workflows/ci.yml)
 Цей проєкт демонструє налаштування базового інструментарію для розробки на Go (linting, testing, automation).
 
 ## Як запустити проєкт
